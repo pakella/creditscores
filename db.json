@@ -1,7 +1,9 @@
-  {
+[  
+{
     "pan": "ABCDE12345",
     "creditscore": 750,
     "name": "XYZ",
     "address": "INDIA",
     "Zipcode": "7097"
   }
+]
